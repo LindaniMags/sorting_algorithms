@@ -19,6 +19,8 @@ void swap_el(int *num1, int *num2)
  * using the Selection sort algorithm
  * @array: Array of integers
  * @size: Size of array
+ *
+ * Description: Sorts and prints the resulting array
  */
 void selection_sort(int *array, size_t size)
 {
